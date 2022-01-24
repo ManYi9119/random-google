@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
+	'https://docs.google.com/forms/d/e/1FAIpQLSd2W6gQGOIsosmHGSddItAj7qY7YjZmwMQimVLZ9nZhckPnaQ/viewform',
 	'https://docs.google.com/forms/d/e/1FAIpQLSd2W6gQGOIsosmHGSddItAj7qY7YjZmwMQimVLZ9nZhckPnaQ/viewform',
 	'https://docs.google.com/forms/d/e/1FAIpQLSd2W6gQGOIsosmHGSddItAj7qY7YjZmwMQimVLZ9nZhckPnaQ/viewform'
 ];
